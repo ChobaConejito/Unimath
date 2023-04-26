@@ -1,0 +1,66 @@
+#fondito
+{
+	background-image: url(fondo2.avif);
+
+}
+
+#titulito
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(206, 165, 244);
+    background-color: rgb(255, 20, 235);
+}
+
+#botonsito
+{
+    background-color: #ff50eb;
+}
+	.login_div1 , .login_div2
+	{
+		background: rgb(248, 64, 199);
+        color: rgb(255, 155, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        border-color: rgb(214, 43, 226);
+	}
+
+    #arcoiris
+    {
+        background-image: url(fondo1.avif);
+    }
+
+    #botonsitoo
+    {
+        background-color: #ff51e2;
+        border-color: #cb1aef;
+    }
+
+    #titulitoo
+    {
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       background-color: #f69eec;
+    }
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(219, 141, 255);
+border-radius: 10px;
+border-top: 10px solid #ff51c8;
+padding: 10px;
+float: none;
+text-align: left;
+}
